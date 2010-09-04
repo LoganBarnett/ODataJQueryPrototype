@@ -1,0 +1,9 @@
+*.pidb
+Temp
+.DS_Store
+Library/ScriptAssemblies
+*.userprefs
+Build
+*.csproj
+*.sln
+obj/
